@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497430701190",
+    "firebase_url": "https://alq-gp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "alq-gp",
+    "storage_bucket": "alq-gp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497430701190:android:30f099513a9bbcd67c9d07",
+        "android_client_info": {
+          "package_name": "com.alqgpit.alqgp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497430701190-dpjnb8rmra30cd1unas5ag55c6socvoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alqgpit.alqgp",
+            "certificate_hash": "4661048555dd52a56d5673f41be228b41b24a206"
+          }
+        },
+        {
+          "client_id": "497430701190-a3i64md83n0994uqt560eqf1qj25bh1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_WrY1TSRrtQ4XvRumITLxosM1YjgPXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497430701190-a3i64md83n0994uqt560eqf1qj25bh1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497430701190-bok3d739semba9i75pnigooa1odq08ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alqgp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
